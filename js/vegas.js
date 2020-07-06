@@ -1,0 +1,1 @@
+$(function(){$.vegas('slideshow',{backgrounds:[{src:'img/low-poly00.jpg',fade:1000},{src:'img/low-poly01.jpg',fade:1000},{src:'img/low-poly02.jpg',fade:1000},{src:'img/low-poly03.jpg',fade:1000}]})});
